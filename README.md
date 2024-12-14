@@ -1,2 +1,2 @@
-# Maze-solving-python-Code
+  ## Maze-solving-python-Code
 this is Maze solving python Code
